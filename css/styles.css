@@ -1,0 +1,31 @@
+.white {
+  background-color: rgba(255, 255, 255, 0.6);
+  color: black;
+}
+
+.tour-dates {
+  width: 200px;
+  float: right;
+  margin: 15px;
+  border: 2px maroon;
+  border-style: solid;
+  padding-left: 5px;
+  padding-right: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+h2.tour {
+  text-align: center;
+  padding: 10px;
+}
+
+body {
+  background-image: url("https://www.gannett-cdn.com/presto/2020/02/18/PGRB/08d31a21-e265-4876-947f-c15002fd7562-grohl.jpg?width=660&height=441&fit=crop&format=pjpg&auto=webp");
+  width: 100%;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: black;
+}
+
